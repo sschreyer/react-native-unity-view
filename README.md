@@ -14,7 +14,7 @@ __*If you're using a Unity version older than 2019.3 you can only export to andr
 
 ## Install
 
-`yarn add @sschreyer/react-native-unity-view`
+`npm add https://github.com/sschreyer/react-native-unity-view.git`
 
 ## Configuration
 
