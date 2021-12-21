@@ -1,5 +1,5 @@
 {
-  "name": "@yiheyang/react-native-unity-view",
+  "name": "@sschreyer/react-native-unity-view",
   "title": "React Native Unity View",
   "version": "1.0.1",
   "description": "Embed Unity Player inside a React Native app",
@@ -10,21 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yiheyang/react-native-unity-view.git",
-    "baseUrl": "https://github.com/yiheyang/react-native-unity-view"
+    "url": "git+https://github.com/sschreyer/react-native-unity-view.git",
+    "baseUrl": "https://github.com/sschreyer/react-native-unity-view.git"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Heron Yee",
-    "email": "yiheyang97@gmail.com"
+    "name": "sschreyer"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "^16.8.1",
+    "react": "^17.0.1",
     "react-native": ">=0.60.0"
   },
   "devDependencies": {
