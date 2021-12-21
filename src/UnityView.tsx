@@ -5,7 +5,9 @@ import MessageHandler from './MessageHandler'
 import { UnityModule, UnityViewMessage } from './UnityModule'
 import { Component, useEffect, useState } from 'react'
 
-const { UIManager } = NativeModules
+
+// Note: removed brackets around UIManager to get this working in my env
+const UIManager = NativeModules
 
 export interface UnityViewProps extends ViewProps {
     /**
